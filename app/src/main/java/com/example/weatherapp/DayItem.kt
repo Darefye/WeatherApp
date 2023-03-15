@@ -1,7 +1,5 @@
 package com.example.weatherapp
 
-import java.time.temporal.Temporal
-
 data class DayItem(
     val city: String,
     val time: String,
